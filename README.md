@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently going through the 18 week Software Engineering Immersive Bootcamp with Galvanize Inc utilizing my CSP opportunity with my last few months of my military service. On the side I am currently learning Java within a Master Class on Udemy, and studying for my AWS Cloud Practitioner Certification. My ultimate goal is to be a Software Engineer and work with AWS services!
 <!--
 **tpeterec/tpeterec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
