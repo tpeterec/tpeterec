@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Alex
 I am currently going through the 18 week Software Engineering Immersive Bootcamp with Galvanize Inc utilizing my CSP opportunity with my last few months of my military service. On the side I am currently learning Java within a Master Class on Udemy, and studying for my AWS Cloud Practitioner Certification. My ultimate goal is to be a Software Engineer and work with AWS services!
 
+Check out my most recent project: frontend-project(Top Crypto Currencies)
+
 Email: Alex1996P3@gmail.com  
 LinkedIn: linkedin.com/in/tapeterec
 <!--
