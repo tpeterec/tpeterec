@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Alex
 I am currently going through the 18 week Software Engineering Immersive Bootcamp with Galvanize Inc utilizing my CSP opportunity with my last few months of my military service. On the side I am currently learning Java within a Master Class on Udemy, and studying for my AWS Cloud Practitioner Certification. My ultimate goal is to be a Software Engineer and work with AWS services!
 
-Check out my most recent project: fs_pet_shop (Using PostgreSQL, RESTful APIs, and Express.JS to make a server side project with a petshop inventory) 
+Check out my most recent project: fs_pet_shop (Using PostgreSQL, RESTful APIs, Docker, Express.JS, and Node.js to make a server side project with a petshop inventory) 
 
 Email: Alex1996P3@gmail.com  
 LinkedIn: linkedin.com/in/tapeterec
