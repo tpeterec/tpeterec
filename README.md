@@ -7,6 +7,7 @@ Most recent team project: Spooify, a full-stack application with a front-end foc
 
 Email: Alex1996P3@gmail.com  
 LinkedIn: linkedin.com/in/tapeterec
+Medium Blog: medium.com/@thomaspeterec
 <!--
 **tpeterec/tpeterec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
