@@ -2,7 +2,9 @@
 I am currently going through the 18 week Software Engineering Immersive Bootcamp with Galvanize Inc utilizing my CSP opportunity with my last few months of my military service. On the side I am currently learning Java within a Master Class on Udemy. My ultimate goal is to be a Software Engineer and work with AWS!
 
 Check out my most recent project: rider_mvp_project
+
 Most recent team project: Spooify, a full-stack application with a front-end focus. 
+
 Email: Alex1996P3@gmail.com  
 LinkedIn: linkedin.com/in/tapeterec
 <!--
