@@ -3,7 +3,7 @@ I am currently going through the 18 week Software Engineering Immersive Bootcamp
 
 Check out my most recent project: rider_mvp_project
 
-Most recent team project: Spooify, a full-stack application with a front-end focus. 
+Most recent team project: HopCamp, a System Design Capstone for optimizing an application
 
 Email: Alex1996P3@gmail.com  
 
