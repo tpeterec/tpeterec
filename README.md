@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Alex
-I am currently going through the 18 week Software Engineering Immersive Bootcamp with Galvanize Inc as I transfer to civilian life from the United States Army. On the side I am currently learning Java within a Master Class and studying for my AWS Solutions Architect Certification on Udemy. My ultimate goal is to be a Software Engineer and work with AWS!
+Hi, I'm Alex! I'm a US Army Veteran and just completed a 18 week Software Engineering Bootcamp with Galvanize Inc. This bootcamp gave me multiple skillsets culminating to become a Full Stack Software Engineer. As I look for my first role as a Software Engineer,  I am going through a Java Masterclass on udemy learning Object Oriented Programming, Algorithms, Data Structures, and studying for my AWS Solutions Architect exam.
 
 Check out my most recent project: rider_mvp_project
 
-Most recent team project: HopCamp, a System Design Capstone for optimizing an application
+Most recent team project: Instructor Hub, A student tracker for coding bootcamp instructors.
 
 Email: Alex1996P3@gmail.com  
 
