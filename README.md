@@ -1,9 +1,7 @@
 ### Hi there 👋 My name is Alex
-Hi, I'm Alex! I'm a US Army Veteran and just completed a 18 week Software Engineering Bootcamp with Galvanize Inc. This bootcamp gave me multiple skillsets culminating to become a Full Stack Software Engineer. As I look for my first role as a Software Engineer,  I am going through a Java Masterclass on udemy learning Object Oriented Programming, Algorithms, Data Structures, and studying for my AWS Solutions Architect exam.
+I am a Software Engineer at Wells Fargo, where I develop and maintain software solutions for the Credit Card Benefits Team using Java, Spring Boot, Spring Framework, Apache Kafka, and MongoDB. I joined Wells Fargo through the VET (Veteran Employment Transition) Program, a full-time, 8-week apprenticeship that provides me with on-the-job training and mentorship. I am passionate about developing software that can enhance the lives of others while also being intellectually stimulating. 
 
-Check out my most recent project: rider_mvp_project
-
-Most recent team project: Instructor Hub, A student tracker for coding bootcamp instructors.
+Before becoming a Software Engineer, I completed an 18-week Software Engineering Bootcamp with Galvanize Inc, where I learned the fundamentals of full-stack development in JavaScript, React, Express/Node.js, PostgreSQL and learned the fundamentals of cloud technology. I completed this program as a part of my DoD SkillBridge/ Army CSP, setting me up for a successful transition to civilian life towards the end of my Army service. 
 
 Email: Alex1996P3@gmail.com  
 
